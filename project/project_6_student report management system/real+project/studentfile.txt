@@ -1,0 +1,33 @@
+                 THe name of the school is 
+         lord bright wisdom Internatinal school 
+
+
+
+   The student detail is 
+   THe name of the student is         :=>ram
+   THe class  of the student is       :=>10
+   THe roll number  of the student is :=>20
+
+
+
+ The marks of the student are
+*****************************************************************************************************
+S.No:                                                                    subject               marks
+1                |The marks of the student in the subject|:             |math    |=>            |40| 
+2                |The marks of the student in the subject|:             |opt_math|=>            |40| 
+3                |The marks of the student in the subject|:             |science |=>            |60| 
+4                |The marks of the student in the subject|:             |social  |=>            |40| 
+5                |The marks of the student in the subject|:             |computer|=>            |50| 
+6                |The marks of the student in the subject|:             |English |=>            |50| 
+7                |The marks of the student in the subject|:             |Nepali  |=>            |60| 
+8                |The marks of the student in the subject|:             |EPH     |=>            |20| 
+********************************************************************************************************
+
+
+
+The total marks is := 360
+The total marks is := 45
+
+
+
+                                                                      result : fail
